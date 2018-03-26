@@ -10,10 +10,10 @@
     </parent>
 
     <groupId>com</groupId>
-    <artifactId>ROOT</artifactId>
-    <!-- <version>0.0.1-SNAPSHOT</version> -->
-    <packaging>war</packaging>
-    <name>ROOT</name>
+    <artifactId>springbootapp</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <!-- <packaging>war</packaging> -->
+    <name>springbootapp</name>
 
     <prerequisites>
         <maven>3.0.0</maven>
