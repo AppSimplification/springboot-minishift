@@ -73,7 +73,7 @@ jhipster:
             key: 0621b5cb20c0681d8af07344a16afcfe9e535cce
     mail: # specific JHipster mail property, for standard properties see MailProperties
         from: storetqvone@localhost
-        base-url: http://localhost:8080
+        # base-url: http://localhost:8080
     metrics: # DropWizard Metrics configuration, used by MetricsConfiguration
         jmx.enabled: true
         graphite: # Use the "graphite" Maven profile to have the Graphite dependencies
